@@ -50,7 +50,7 @@
 * Menambahkan layout untuk menu About.
     - single layout deskripsi dan my portofolio.
     berikut adalah hasilnya:
-1[img 10](screen/b10.JPG)
+![img 10](screen/b10.JPG)
 
 * Tambahkan layout untuk menu Contact
     - membuat form isian.
